@@ -9,7 +9,7 @@
 
 * git clone & buka javaandroidapp/SigmaAndroidApp di Android Studio / IDE Lainnya
 ```
-https://gitlab.com/PradanaIN/ppk-uas.git
+https://github.com/PradanaIN/SIGMA-STIS-AndroidApp.git
 ```
 
 * masuk ke folder server, sesuaikan baseUrl pada class BaseUrl.java dengan ip adress dan direktori milik anda
