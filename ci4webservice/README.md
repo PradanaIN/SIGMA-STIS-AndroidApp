@@ -10,7 +10,7 @@
 
 * git clone & buka ci4webservice di text editor / IDE
 ```
-git clone https://gitlab.com/PradanaIN/ppk-uas.git
+https://github.com/PradanaIN/SIGMA-STIS-AndroidApp.git
 ```
 * install composer
 ```
@@ -20,7 +20,7 @@ composer install
 ```
 composer update
 ```
-* import database [ppk_uas.sql](https://gitlab.com/PradanaIN/ppk-uas/-/blob/main/ppk_uas.sql) atau migrasi database (pastikan sudah memiliki tabel database ppk_uas)
+* import database [ppk_uas.sql](https://github.com/PradanaIN/SIGMA-STIS-AndroidApp/blob/main/ppk_uas.sql) atau migrasi database (pastikan sudah memiliki tabel database ppk_uas)
 ```
 php spark migrate
 ```
