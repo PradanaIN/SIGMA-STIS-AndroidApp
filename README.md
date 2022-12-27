@@ -17,10 +17,10 @@ memaksimalkan angka partisipasi mahasiswa pada kegiatan yang diadakan.
 
 ### Files
 
-1. [ci4webservice](https://gitlab.com/PradanaIN/ppk-uas/-/tree/main/ci4webservice) merupakan RestAPI Webservice.
-2. [javaandroidapp](https://gitlab.com/PradanaIN/ppk-uas/-/tree/main/javaandroidapp) merupakan folder source code project android app menggunakan Java dengan dependency Retrofit.
-3. [reactandroidapp](https://gitlab.com/PradanaIN/ppk-uas/-/tree/main/reactandroidapp) merupakan folder source code project android app menggunakan React Native (belum selesai, hanya coba-coba).
-4. [ppk_uas.sql](https://gitlab.com/PradanaIN/ppk-uas/-/blob/main/ppk_uas.sql) yang merupakan dump database aplikasi.
+1. [ci4webservice](https://github.com/PradanaIN/SIGMA-STIS-AndroidApp/tree/main/ci4webservice) merupakan RestAPI Webservice.
+2. [javaandroidapp](https://github.com/PradanaIN/SIGMA-STIS-AndroidApp/tree/main/javaandroidapp) merupakan folder source code project android app menggunakan Java dengan dependency Retrofit.
+3. [reactandroidapp](https://github.com/PradanaIN/SIGMA-STIS-AndroidApp/tree/main/reactandroidapp) merupakan folder source code project android app menggunakan React Native (belum selesai, hanya coba-coba).
+4. [ppk_uas.sql](https://github.com/PradanaIN/SIGMA-STIS-AndroidApp/blob/main/ppk_uas.sql) yang merupakan dump database aplikasi.
 
 ### Demo Aplikasi
 Java Android 
